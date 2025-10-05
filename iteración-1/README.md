@@ -13,15 +13,50 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+## Acuerdos de las jornadas de trabajo
 
-### Artefactos principales
+- Definimos realizar las daily dia por medio alrededor de las 20:00 hs por temas personales (trabajo/estudio, entre otros) para hacer un breve resumen personal en lo que se va a trabajar y si algun integrante tiene algun inconveniente 
+- Creemos adecuado tener reuniones con esta frecuencia para optimizar el tiempo de trabajo  y que las daily sean productivas.  
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+## Roles
+
+### Product Owner
+El Product Owner representa al cliente dentro del equipo, comunica las necesidades y prioridades del negocio, y decide qué funcionalidades se desarrollarán en cada iteración.
+
+### Scrum Master
+El Scrum Master facilita el trabajo del equipo, asegurándose de que se sigan las prácticas de Scrum, ayudando a resolver problemas y fomentando la colaboración para entregar valor al cliente.
+
+### Developer
+El Developer se encarga de implementar las funcionalidades, trabajando en equipo y junto al Product Owner para cumplir los objetivos de cada sprint.
+
+## Roles por integrante
+
+Product Owner: Franco Ramos  
+Scrum Master: Agustin Peraza  
+Developer: Santiago Meizoso 
+
+Adjunto en la imagen a continuación la definición del calendario de eventos 
+
+![eventos](imagenes/calendarioEventos.png)
+
+### Definition of Done
+
+Se considera completada una historia de usuario cuando se cumplen los siguientes criterios:
+- Se integro la historia al codigo y paso las pruebas unitarias. 
+- Fue validada por el Product Owner.
+- Se encuentra lista para ser desplegada.   
+
+Es importante tener en cuenta que no se trata solo de haber pasado a codigo las historias listas, sino tambien validar, probar, documentar y garantizar que aporte valor real al cliente.
+
+### Definition of Ready
+
+Una historia de usuario se considera lista para su desarrollo cuando:
+- Se definio de manera clara y concisa, es decir, todos los miembros del equipo la entienden.
+- Se definio el critero de aceptacion. (Enunciado que define las condiciones para que sea considerada completa)
+- Debe aportar valor para el cliente, que sea relevante.
+- Debe poder completarse de forma independiente a las demas historias de usuario.
+- Debe ser realizable durante una iteracion. De no serlo debe ser dividida.
+- Debe esta priorizada.
 
 ## Planificación de la iteración
 
