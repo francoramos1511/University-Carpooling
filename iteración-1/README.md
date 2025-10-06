@@ -98,6 +98,22 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 _[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
 
+### Objetivo
+
+Desarrollar una aplicación de carpooling universitario que permita vincular a estudiantes que ofrecen lugares en sus vehículos con aquellos que necesitan trasladarse hacia o desde la facultad.
+
+### Interesados
+
+Son individuos, grupos u organizaciones que pueden afectar, verse afectados, o ser percibidos como afectados por un proyecto.
+
+[Ver Interesados](./interesados.md)
+
+### Funcionalidades
+
+Listado detallado de las características clave que deberá ofrecer la aplicación para cumplir con el MVP planteado.
+
+[Ver Funcionalidades](./funcionalidades.md)
+
 ### Artefactos principales
 
 - Identificación de interesados con sus perfiles asociados.
