@@ -114,11 +114,11 @@ Listado detallado de las características clave que deberá ofrecer la aplicaci�
 
 [Ver Funcionalidades](./funcionalidades.md)
 
-### Artefactos principales
+### Competidores
 
-- Identificación de interesados con sus perfiles asociados.
-- Lista de funcionalidades por cada interesado.
-- Análisis y estudio de competidores.
+Los competidores son empresas, productos o servicios que buscan satisfacer las mismas necesidades o mercados que otro.
+
+[Ver Competidores](./competidores.md)
 
 ## Definición del problema/solución
 
