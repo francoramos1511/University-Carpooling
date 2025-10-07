@@ -14,8 +14,8 @@ En resumen, aunque existen algunas iniciativas similares a la nuestra, ninguna e
 
 A continuación un análisis más profundo y detallado de los competidores:
 
-| Competidor | Público objetivo | Modelo de negocio | Oferta de valor / Funcionalidades | Estrategias de marketing | Diferencias clave con nuestro proyecto | |
-| - | - | - | - | - | - | - |
-| **Let’s Go Car** | Personas que viajan entre departamentos y Montevideo | Comisión por viaje | Ahorro en viajes largos / app y web para coordinar viajes con pago integrado | Redes sociales, referidos, boca a boca | No enfocado en estudiantes ni traslados diarios urbanos                
-| **Viatik** | Personas que viajan entre ciudades o departamentos | Comisión por viaje / suscripción | Reducción de costos en viajes largos / app con chat, pagos y perfiles verificados | Redes sociales, publicidad digital, promociones, referidos, boca a boca | No es en su totalidad enfocado en estudiantes (puede servir de referencia en seguridad y estructura de app) 
+| Competidor | Público objetivo | Modelo de negocio | Oferta de valor / Funcionalidades | Estrategias de marketing | Diferencias clave con nuestro proyecto |
+| - | - | - | - | - | - |
+| **Let’s Go Car** | Personas que viajan entre departamentos y Montevideo | Comisión por viaje | Ahorro en viajes largos / app y web para coordinar viajes con pago integrado | Redes sociales, referidos, boca a boca | No enfocado en estudiantes ni traslados diarios urbanos |
+| **Viatik** | Personas que viajan entre ciudades o departamentos | Comisión por viaje / suscripción | Reducción de costos en viajes largos / app con chat, pagos y perfiles verificados | Redes sociales, publicidad digital, promociones, referidos, boca a boca | No es en su totalidad enfocado en estudiantes (puede servir de referencia en seguridad y estructura de app) |
 | **“Vamos Juntos?”** | Personas que viajan entre ciudades; usuarios locales | No es con fines de lucro | Compartir viajes para reducir costos / coordinación vía redes o grupos | Redes sociales, grupos locales, boca a boca | Proyecto pequeño, experimental; sin app formal ni sistema de pago |
