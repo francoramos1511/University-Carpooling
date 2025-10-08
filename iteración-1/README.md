@@ -129,7 +129,18 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 
 ### Artefactos principales
 
-- Product backlog con épicas e historias de usuario para prototipar.
+### Épicas
+
+Al momento de crear épicas, el criterio que seguimos fue separar cada perfil de usuario del sistema y agrupar sus funcionalidades. 
+
+[Ver Épicas](./épicas.md)
+
+### Criterios de aceptación para las historias de usuario
+
+Cada historia de usuario tiene su propio criterio de aceptación, el cual debe cumplirse en su totalidad como uno de los requisitos para marcarla como completada. (Ver Definition of Done)    
+
+**posible imagen de ejemplo**
+
 - Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
 - Propuesta de valor diferenciadora de la competencia.
 - Story map del roadmap inicial del proyecto.
