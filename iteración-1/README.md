@@ -60,7 +60,43 @@ Una historia de usuario se considera lista para su desarrollo cuando:
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+En esta etapa el objetivo principal es comprender a fondo lo que solicita el cliente y traducirlo en entregables concretos definidos. Para lograr esto se necesita:
+
+### Comprensión del requerimiento del cliente
+
+Se revisan las necesidades planteadas y se asegura que todo el equipo tenga una visión compartida del objetivo de la iteración.
+
+### Definición de roles dentro del Scrum Team
+
+Se establecen claramente las responsabilidades de Product Owner, Scrum Master y Developer, con el fin de organizar la comunicación y la ejecución del sprint.
+
+### Épicas
+
+Al momento de crear épicas, el criterio que seguimos fue separar cada perfil de usuario del sistema y agrupar sus funcionalidades. 
+
+![eventos](imagenes/épicas.png)
+
+### Criterios de aceptación para las historias de usuario
+
+Cada historia de usuario tiene su propio criterio de aceptación, el cual debe cumplirse en su totalidad como uno de los requisitos para marcarla como completada. (Ver Definition of Done)    
+
+### Creación de User Stories en el Product Backlog
+
+A partir de los requerimientos, se redactan historias de usuario que representen el valor esperado por el cliente, siguiendo el formato estándar (Como [usuario], quiero [funcionalidad], para [beneficio]). A continuación un ejemplo:
+
+![eventos](imagenes/userstory.png)
+
+### Priorización y estimación
+
+Se utiliza la técnica de Planning/Estimation Poker para asignar esfuerzo relativo a cada historia, y en base a esto, determinar su prioridad. Esto asegura que se planifiquen las tareas de acuerdo con la capacidad y velocidad disponible del equipo.
+
+**insertar imagen de ejemplo**
+
+### Construcción del Sprint Backlog
+
+Con las historias priorizadas y estimadas, se seleccionan las que podrán desarrollarse en la iteración. A partir de ellas se definen las tareas concretas que cada miembro del equipo asumirá.
+ 
+**realizar el sprint planning y adjuntar imagenes**
 
 ### Artefactos principales
 
@@ -125,22 +161,10 @@ Los competidores son empresas, productos o servicios que buscan satisfacer las m
 
 ## Definición del problema/solución
 
-_[Existe un Product Backlog definido con su jerarquía de épicas e historias de usuario con sus criterios de aceptación asociados. Existe una priorización de los prototipos principales que se buscarán idear, construir y validar como parte del ciclo de descubrimiento.]_
+### Product Backlog
 
-### Artefactos principales
+El Product Backlog es un artefacto de Scrum que representa una lista dinámica, priorizada y en constante cambio de todos los elementos necesarios para desarrollar  un producto. Contiene historias de usuario, requisitos funcionales y no funcionales, mejoras y correcciones que aportan valor al cliente. 
 
-### Épicas
+**instertar enlace a carpeta con imagenes de las user story y las épicas**
 
-Al momento de crear épicas, el criterio que seguimos fue separar cada perfil de usuario del sistema y agrupar sus funcionalidades. 
-
-[Ver Épicas](./épicas.md)
-
-### Criterios de aceptación para las historias de usuario
-
-Cada historia de usuario tiene su propio criterio de aceptación, el cual debe cumplirse en su totalidad como uno de los requisitos para marcarla como completada. (Ver Definition of Done)    
-
-**posible imagen de ejemplo**
-
-- Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
-- Propuesta de valor diferenciadora de la competencia.
-- Story map del roadmap inicial del proyecto.
+**Story map del roadmap inicial del proyecto**
