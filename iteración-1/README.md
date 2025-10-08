@@ -37,7 +37,7 @@ Developer: Santiago Meizoso
 
 Adjunto en la imagen a continuación la definición del calendario de eventos 
 
-![eventos](imagenes/calendarioEventos.png)
+![eventos](imagenes/calendarioMeetings.png)
 
 ### Definition of Done
 
