@@ -72,16 +72,21 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Daily Scrum
 
-### Artefactos principales
+Es una reunión diaria de corta duración en la que el equipo de desarrollo revisa el progreso hacia el objetivo del Sprint e identifica impedimentos, promoviendo transparencia y coordinación.
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+En la siguiente carpeta se pueden apreciar imágenes de los daily:
+
+[Ver Daily Scrum](./dailyscrum)
+
+### Toggl
+
+Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad.
+
+[Ver Toggl](./toggl)
+
+**Seguimiento visual de la iteración con burndown y/o burnup charts**
 
 ## Inspección y adaptación del proceso
 
