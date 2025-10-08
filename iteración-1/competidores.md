@@ -18,14 +18,15 @@ A continuación un análisis más profundo y detallado de los competidores:
 | - | - | - | - | - | - |
 | **Let’s Go Car** | Personas que viajan entre departamentos y Montevideo | Comisión por viaje | Ahorro en viajes largos / app y web para coordinar viajes con pago integrado | Redes sociales, referidos, boca a boca | No enfocado en estudiantes ni traslados diarios urbanos |
 | **Viatik** | Personas que viajan entre ciudades o departamentos | Comisión por viaje / suscripción | Reducción de costos en viajes largos / app con chat, pagos y perfiles verificados | Redes sociales, publicidad digital, promociones, referidos, boca a boca | No es en su totalidad enfocado en estudiantes (puede servir de referencia en seguridad y estructura de app) |
-| **“Vamos Juntos?”** | Personas que viajan entre ciudades; usuarios locales | No es con fines de lucro | Compartir viajes para reducir costos / coordinación vía redes o grupos | Redes sociales, grupos locales, boca a boca | Proyecto pequeño, experimental; sin app formal ni sistema de pago |
+| **“Vamos Juntos?”** | Personas que viajan entre ciudades; usuarios locales | No es con fines de lucro | Compartir viajes para reducir costos / coordinación vía redes o grupos | Redes sociales, grupos locales, boca a boca | Proyecto pequeño y experimental, sin app formal ni sistema de pago |
+| **Zonamerica ShareIT** | Empleados de Zonamerica | No es con fines de lucro | Carpooling interno entre empleados (comunidad privada) / beneficios para trabajadores | Comunicación interna, iniciativas corporativas | Limitado a una comunidad cerrada, no es abierto ni escalable para estudiantes urbanos |
 
 
 ## Nivel de competencia y relevancia
 
-Considerando lo anterior, realizamos un diagrama considerando su nivel de competencia y la relevancia para nuestro proyecto, que tanto nos sirve de referencia.
+Considerando lo anterior, realizamos un diagrama para definir los niveles de competencia y la relevancia para nuestro proyecto, esto nos sirve de referencia.
 | Competidor | Nivel de competencia | Relevancia para el proyecto | Observación |
-|-------------|----------------------|------------------------------|--------------|
+|-|-|-|-|
 | **Viatik** | Media | Alta | Referencia en seguridad y experiencia de usuario |
 | **Let’s Go Car** | Media | Media | Similar enfoque, pero distinto público |
 | **Zonamerica ShareIT** | Baja | Media | Inspiración en modelo cerrado, pero no compite directamente |

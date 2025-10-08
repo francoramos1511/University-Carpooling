@@ -78,13 +78,13 @@ Es una reunión diaria de corta duración en la que el equipo de desarrollo revi
 
 En la siguiente carpeta se pueden apreciar imágenes de los daily:
 
-[Ver Daily Scrum](./dailyscrum)
+[Ver Daily Scrum](./dailyscrum) 
 
 ### Toggl
 
 Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad.
 
-[Ver Toggl](./toggl)
+[Ver Toggl](./toggl) **agregar carpeta con imagenes**
 
 **Seguimiento visual de la iteración con burndown y/o burnup charts**
 
@@ -100,8 +100,6 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 # Identificar y definir el problema a resolver
 
 ## Identificación del problema a resolver
-
-_[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
 
 ### Objetivo
 
