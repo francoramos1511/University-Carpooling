@@ -37,9 +37,10 @@ Developer: Santiago Meizoso
 
 Adjunto en la imagen a continuación la definición del calendario de eventos  
 Primera version:  
-![eventos](imagenes/calendarioMeetings.png)
+![eventos](imagenes/calendarioMeetings.png)  
 Version final:  
-![eventos2](imagenes/calendarioMeetings2.png)
+![eventos2](imagenes/calendarioMeetings2.png)  
+Pudimos cumplir con el calendario previsto, aunque tuvimos que agregar una daily y ajustar el horario de otra para alcanzar nuestro objetivo en tiempo y forma.  
 ### Definition of Done
 
 Se considera completada una historia de usuario cuando se cumplen los siguientes criterios:
@@ -121,7 +122,9 @@ En la siguiente carpeta se pueden apreciar imágenes de los daily:
 
 Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad.
 
-[Ver Toggl](./toggl) **agregar carpeta con imagenes**
+[Ver Toggl](./toggl) **agregar carpeta con imagenes**  
+Esta grafica representa las horas de trabajo sobre el proyecto en la primera semana, cuando un miembro del equipo empieza a trabajar, comienza un cronometro que luego se suma al tiempo total de trabajo.
+![toggl1](toggl/toggl.png)  
 
 **Seguimiento visual de la iteración con burndown y/o burnup charts**
 
