@@ -35,10 +35,11 @@ Product Owner: Franco Ramos
 Scrum Master: Agustin Peraza  
 Developer: Santiago Meizoso 
 
-Adjunto en la imagen a continuación la definición del calendario de eventos 
-
+Adjunto en la imagen a continuación la definición del calendario de eventos  
+Primera version:  
 ![eventos](imagenes/calendarioMeetings.png)
-
+Version final:  
+![eventos2](imagenes/calendarioMeetings2.png)
 ### Definition of Done
 
 Se considera completada una historia de usuario cuando se cumplen los siguientes criterios:
