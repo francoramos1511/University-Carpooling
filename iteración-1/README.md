@@ -36,11 +36,8 @@ Scrum Master: Agustin Peraza
 Developer: Santiago Meizoso 
 
 Adjunto en la imagen a continuación la definición del calendario de eventos  
-Primera version:  
 ![eventos](imagenes/calendarioMeetings.png)  
-Version final:  
-![eventos2](imagenes/calendarioMeetings2.png)  
-Pudimos cumplir con el calendario previsto, aunque tuvimos que agregar una daily y ajustar el horario de otra para alcanzar nuestro objetivo en tiempo y forma.  
+
 ### Definition of Done
 
 Se considera completada una historia de usuario cuando se cumplen los siguientes criterios:
