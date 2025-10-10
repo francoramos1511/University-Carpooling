@@ -83,19 +83,19 @@ Cada historia de usuario tiene su propio criterio de aceptación, el cual debe c
 
 A partir de los requerimientos, se redactan historias de usuario que representen el valor esperado por el cliente, siguiendo el formato estándar (Como [usuario], quiero [funcionalidad], para [beneficio]). A continuación un ejemplo:
 
-![eventos](imagenes/userstory.png)
+![eventos](imagenes/loginusuario.png)
 
 ### Priorización y estimación
 
 Se utiliza la técnica de Planning/Estimation Poker para asignar esfuerzo relativo a cada historia, y en base a esto, determinar su prioridad. Esto asegura que se planifiquen las tareas de acuerdo con la capacidad y velocidad disponible del equipo.
 
-**insertar imagen de ejemplo**
+![eventos](imagenes/estimationpoker.png)
 
 ### Construcción del Sprint Backlog
 
 Con las historias priorizadas y estimadas, se seleccionan las que podrán desarrollarse en la iteración. A partir de ellas se definen las tareas concretas que cada miembro del equipo asumirá.
  
-**realizar el sprint planning y adjuntar imagenes**
+![eventos](imagenes/sprintplanning.png)
 
 ### Artefactos principales
 
@@ -119,8 +119,10 @@ En la siguiente carpeta se pueden apreciar imágenes de los daily:
 
 Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad.
 
-[Ver Toggl](./toggl) **agregar carpeta con imagenes**  
+[Ver Toggl](./toggl) **agregar carpeta con imagenes**
+
 Esta grafica representa las horas de trabajo sobre el proyecto en la primera semana, cuando un miembro del equipo empieza a trabajar, comienza un cronometro que luego se suma al tiempo total de trabajo.
+
 ![toggl1](toggl/toggl.png)  
 
 **Seguimiento visual de la iteración con burndown y/o burnup charts**
@@ -166,6 +168,4 @@ Los competidores son empresas, productos o servicios que buscan satisfacer las m
 
 El Product Backlog es un artefacto de Scrum que representa una lista dinámica, priorizada y en constante cambio de todos los elementos necesarios para desarrollar  un producto. Contiene historias de usuario, requisitos funcionales y no funcionales, mejoras y correcciones que aportan valor al cliente. 
 
-**instertar enlace a carpeta con imagenes de las user story y las épicas**
-
-**Story map del roadmap inicial del proyecto**
+![eventos](productBacklog/userstory.png)
