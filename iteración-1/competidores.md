@@ -47,4 +47,4 @@ A partir del análisis comparativo de los principales competidores en el mercado
 | **Código de viaje (PIN o QR)** | Generar un código único que confirme la identidad del conductor y del pasajero al inicio del viaje. | Reduce riesgos y errores de identificación entre usuarios. |
 | **Campañas dentro de universidades** | Establecer convenios con facultades y centros de estudiantes para promover el uso de la app. Podrían incluirse beneficios como descuentos, créditos por viajes compartidos o distintivos para las instituciones asociadas. | Amplía el alcance del proyecto, fomenta la adopción temprana y fortalece la relación con los interesados institucionales. |
 
-A excepcion de el **Enfoque en simplicidad** y **Sistema de reputación bidireccional**, las demas oportunidades de mejora planteadas no van a formar parte del MVP definido para esta etapa del pryecto.
+A excepcion de el **Enfoque en simplicidad** y **Sistema de reputación bidireccional**, las demas oportunidades de mejora planteadas no van a formar parte del MVP definido para esta etapa del proyecto.
