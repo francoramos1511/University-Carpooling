@@ -129,12 +129,17 @@ Esta grafica representa las horas de trabajo sobre el proyecto en la primera sem
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+### Sprint Retrospective
 
-### Artefactos principales
+Es una reunión del equipo ágil que se realiza al final de cada iteración o sprint, con el objetivo de reflexionar sobre el trabajo realizado, identificar mejoras y definir acciones concretas para optimizar el proceso en el próximo ciclo.
+Su propósito principal es fomentar la mejora continua y fortalecer la colaboración del equipo.
 
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
+To do: Aspectos que nos gustaria implementar en proximas iteraciones.  
+Bad: Aspectos a mejorar.  
+Good: Cosas que hicimos bien y deberiamos seguir realizando.  
+
+![retrospective](imagenes/sprintRetrospective.png)  
 
 # Identificar y definir el problema a resolver
 
