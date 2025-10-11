@@ -31,3 +31,20 @@ Considerando lo anterior, realizamos un diagrama para definir los niveles de com
 | **Let’s Go Car** | Media | Media | Similar enfoque, pero distinto público |
 | **Zonamerica ShareIT** | Baja | Media | Inspiración en modelo cerrado, pero no compite directamente |
 | **“Vamos Juntos?”** | Baja | Baja | Proyecto informal, sin estructura técnica | 
+
+
+## Oportunidades de mejora y diferenciación
+
+A partir del análisis comparativo de los principales competidores en el mercado de carpooling en Uruguay, se identifican varias **áreas de mejora** que permitirían a nuestra aplicación posicionarse como una solución más adaptada al público universitario. Estas oportunidades no solo aportan valor diferencial, sino que también fortalecen la confianza y la usabilidad del sistema.
+
+| Aspecto | Descripción | Beneficio principal |
+| - | - | - |
+| **Enfoque en simplicidad** | Diseñar una experiencia centrada en traslados diarios urbanos con flujos rápidos y una interfaz intuitiva. El objetivo es que el usuario pueda publicar o reservar un viaje en menos de un minuto. | Mejora la adopción entre jóvenes que buscan inmediatez y facilidad de uso. |
+| **Sistema de reputación bidireccional** | Mantener un sistema de evaluaciones entre conductores y pasajeros que permita construir confianza mutua. (Requerimiento ya presente en la letra del proyecto). | Aumenta la confiabilidad y transparencia del servicio. |
+| **Verificación institucional** | Incorporar la validación de identidad mediante el correo universitario del estudiante o mediante acuerdos con las propias universidades. Esto refuerza la legitimidad de la comunidad y permite a las instituciones involucrarse como garantes de seguridad. | Fortalece la confianza entre usuarios y vincula a las universidades como actores interesados. |
+| **Historial de viajes y gastos** | Registrar los viajes realizados y el costo compartido, mostrando estadísticas personales de movilidad y ahorro. | Aporta transparencia y control a los usuarios sobre su actividad y gastos. |
+| **Geolocalización en tiempo real durante el viaje** | Implementar un seguimiento del recorrido del conductor y los pasajeros en tiempo real mediante GPS, visible dentro de la app. | Aumenta la seguridad y permite verificar el cumplimiento del viaje. |
+| **Código de viaje (PIN o QR)** | Generar un código único que confirme la identidad del conductor y del pasajero al inicio del viaje. | Reduce riesgos y errores de identificación entre usuarios. |
+| **Campañas dentro de universidades** | Establecer convenios con facultades y centros de estudiantes para promover el uso de la app. Podrían incluirse beneficios como descuentos, créditos por viajes compartidos o distintivos para las instituciones asociadas. | Amplía el alcance del proyecto, fomenta la adopción temprana y fortalece la relación con los interesados institucionales. |
+
+A excepcion de el **Enfoque en simplicidad** y **Sistema de reputación bidireccional**, las demas oportunidades de mejora planteadas no van a formar parte del MVP definido para esta etapa del pryecto.
