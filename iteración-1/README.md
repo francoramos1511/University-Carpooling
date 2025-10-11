@@ -35,7 +35,8 @@ Product Owner: Franco Ramos
 Scrum Master: Agustin Peraza  
 Developer: Santiago Meizoso 
 
-Adjunto en la imagen a continuación la definición del calendario de eventos  
+Adjunto en la imagen a continuación la definición del calendario de eventos 
+
 ![eventos](imagenes/calendarioMeetings.png)  
 
 ### Definition of Done
@@ -97,14 +98,6 @@ Con las historias priorizadas y estimadas, se seleccionan las que podrán desarr
  
 ![eventos](imagenes/sprintplanning.png)
 
-### Artefactos principales
-
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-
 ## Seguimiento de la iteración
 
 ### Daily Scrum
@@ -117,15 +110,11 @@ En la siguiente carpeta se pueden apreciar imágenes de los daily:
 
 ### Toggl
 
-Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad.
+Toggl es una aplicación de gestión del tiempo que permite registrar y monitorear las horas dedicadas a distintas tareas y proyectos. Se utiliza tanto de forma individual como en equipos de trabajo, ya que ofrece reportes y estadísticas que facilitan el análisis de productividad. 
 
-[Ver Toggl](./toggl) **agregar carpeta con imagenes**
+En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el trabajo en equipo, mostrando el progreso del proyecto en horas de trabajo.
 
-Esta grafica representa las horas de trabajo sobre el proyecto en la primera semana, cuando un miembro del equipo empieza a trabajar, comienza un cronometro que luego se suma al tiempo total de trabajo.
-
-![toggl1](toggl/toggl.png)  
-
-**Seguimiento visual de la iteración con burndown y/o burnup charts**
+[Ver Toggl](./toggl)
 
 ## Inspección y adaptación del proceso
 
@@ -135,9 +124,9 @@ Es una reunión del equipo ágil que se realiza al final de cada iteración o sp
 Su propósito principal es fomentar la mejora continua y fortalecer la colaboración del equipo.
 
 Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
-To do: Aspectos que nos gustaria implementar en proximas iteraciones.  
-Bad: Aspectos a mejorar.  
-Good: Cosas que hicimos bien y deberiamos seguir realizando.  
+- **To do**: Aspectos que nos gustaria implementar en proximas iteraciones.  
+- **Bad**: Aspectos a mejorar.  
+- **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
 ![retrospective](imagenes/sprintRetrospective.png)  
 
