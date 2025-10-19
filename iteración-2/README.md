@@ -35,6 +35,8 @@ Adjunto en la imagen a continuación la definición del calendario de eventos:
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
 
+## Sprint Planning
+
 ### Artefactos principales
 
 - Minuta de la sprint planning con su agenda, actividades y resultados.
@@ -46,16 +48,17 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Daily Scrum
 
-### Artefactos principales
+En la siguiente carpeta se pueden apreciar imágenes de los daily.
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+[Ver Daily Scrum](./dailyscrum) 
+
+### Toggl
+
+En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el trabajo en equipo, mostrando el progreso del proyecto en horas de trabajo.
+
+[Ver Toggl](./toggl)
 
 ## Inspección y adaptación del proceso
 
