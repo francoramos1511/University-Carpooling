@@ -73,12 +73,13 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+### Figma
 
-### Artefactos principales
+Figma es una herramienta de diseño colaborativo en línea que permite crear y prototipar interfaces de usuario de forma visual y en tiempo real. Facilita el trabajo en equipo, ya que varios usuarios pueden diseñar, revisar y comentar simultáneamente desde el navegador.
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+En la carpeta a continuación se pueden apreciar imágenes de los prototipos realizados en esta iteración:
+
+[Ver Prototipos](./figma) 
 
 ## Inspección y adaptación del producto
 
