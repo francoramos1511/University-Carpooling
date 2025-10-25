@@ -78,12 +78,19 @@ En la carpeta a continuación se pueden apreciar imágenes de los prototipos rea
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+### Validacion con usuarios
 
-### Artefactos principales
+Se otorgaron permisos a distintos alumnos de la universidad ORT para visualizar y testear los prototipos creados hasta el momento. Cabe destacar que los prototipos no son todavía del todo interactivos ya que el MVP no esta finalizado. De todas formas el feedback obtenido fue bueno y optimista para seguir el desarrollo de la app. 
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+Se destacaron las siguientes afirmaciones en el feedback de los usuarios:
+
+- La interfaz es simple y mantiene el formato de android
+- La interaz es moderna y atractiva
+- La idea de compartir viajes entre estudiantes parece muy útil y práctica
+- Sería interesante agregar filtros como facultad, carrera o turno para encontrar viajes más fácilmente
+- Da una buena primera impresión, los usuarios estan dispuestos a probar la versión funcional cuando esté lista
+- El prototipo logra transmitir la propuesta de valor, aun sin ser completamente interactivo
+
+
+
+
