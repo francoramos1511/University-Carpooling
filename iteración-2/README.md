@@ -13,70 +13,84 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+En esta iteración seguimos trabajando con el marco **Scrum**, con los roles ya definidos y realizando los diferentes prototipos designados para esta iteración.
+  
+## Roles y responsabilidades
 
-### Artefactos principales
+**Product Owner:** Franco Ramos  
+**Scrum Master:** Agustin Peraza  
+**Developer:** Santiago Meizoso 
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+## Políticas de trabajo
 
-## Planificación de la iteración
+**Definition of Done:** Una historia de usuario la consideramos finalizada cuando su prototipo fue completado, validado en las pruebas de usabilidad y aprobado por los usuarios (ver validación con usuarios).
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+**Definition of Ready:** Las historias de usuario las consideramos listas si cumplen con el modelo INVEST, si estan correctamente priorizadas y si cuentan con criterios de aceptación claros antes de iniciar los diseños de sus prototipos.
 
-### Artefactos principales
+## Sprint Planning
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+Para este sprint se realizó una estimación de los story points de las user story para estimar la duración de su prototipado, a continuación la imágenes:
+
+![eventos](imagenes/Estimationpoker_Sprint2.png)
+
+![eventos](imagenes/Estimationpoker_storypoints_Sprint2.png)
+
+En total se lograron concretar 10 user story, ya que la velocidad del equipo de desarrollo fue eficiente se implementaron además 2 user story asignadas para la siguiente iteración.
+
+![eventos](imagenes/Backlog_Sprint2.png)
+
+![eventos](imagenes/UserStory_Sprint3.png)
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Daily Scrum
 
-### Artefactos principales
+En la siguiente carpeta se pueden apreciar imágenes de los daily.
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+[Ver Daily Scrum](./dailyscrum) 
+
+### Toggl
+
+En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el trabajo en equipo, mostrando el progreso del proyecto en horas de trabajo.
+
+[Ver Toggl](./toggl)
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
+- **To do**: Aspectos que nos gustaria implementar en proximas iteraciones.  
+- **Bad**: Aspectos a mejorar.  
+- **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
-### Artefactos principales
-
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+![retrospective](imagenes/Retrospective.png)  
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+### Figma
 
-### Artefactos principales
+Figma es una herramienta de diseño colaborativo en línea que permite crear y prototipar interfaces de usuario de forma visual y en tiempo real. Facilita el trabajo en equipo, ya que varios usuarios pueden diseñar, revisar y comentar simultáneamente desde el navegador.
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+En la carpeta a continuación se pueden apreciar imágenes de los prototipos realizados en esta iteración:
+
+[Ver Prototipos](./figma) 
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+### Validacion con usuarios
 
-### Artefactos principales
+Se otorgaron permisos a distintos alumnos de la universidad ORT para visualizar y testear los prototipos creados hasta el momento. Cabe destacar que los prototipos no son todavía del todo interactivos ya que el MVP no esta finalizado. De todas formas el feedback obtenido fue bueno y optimista para seguir el desarrollo de la app. 
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+Se destacaron las siguientes afirmaciones en el feedback de los usuarios:
+
+- La interfaz es simple y mantiene el formato de android
+- La interaz es moderna y atractiva
+- La idea de compartir viajes entre estudiantes parece muy útil y práctica
+- Sería interesante agregar filtros como facultad, carrera o turno para encontrar viajes más fácilmente
+- Da una buena primera impresión, los usuarios estan dispuestos a probar la versión funcional cuando esté lista
+- El prototipo logra transmitir la propuesta de valor, aun sin ser completamente interactivo
+
+
+
+
