@@ -21,10 +21,6 @@ En esta iteración seguimos trabajando con el marco **Scrum**, con los roles ya 
 **Scrum Master:** Agustin Peraza  
 **Developer:** Santiago Meizoso 
 
-Adjunto en la imagen a continuación la definición del calendario de eventos:
-
-**adjuntar imagen calendario de eventos con dailys, sprint review y sprint retrospective**
-
 ## Políticas de trabajo
 
 **Definition of Done:** Una historia de usuario la consideramos finalizada cuando su prototipo fue completado, validado en las pruebas de usabilidad y aprobado por los usuarios (ver validación con usuarios).
