@@ -57,12 +57,12 @@ En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
+- **To do**: Aspectos que nos gustaria implementar en proximas iteraciones.  
+- **Bad**: Aspectos a mejorar.  
+- **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
-### Artefactos principales
-
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+![retrospective](imagenes/Retrospective.png)  
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
