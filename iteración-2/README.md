@@ -27,20 +27,19 @@ En esta iteración seguimos trabajando con el marco **Scrum**, con los roles ya 
 
 **Definition of Ready:** Las historias de usuario las consideramos listas si cumplen con el modelo INVEST, si estan correctamente priorizadas y si cuentan con criterios de aceptación claros antes de iniciar los diseños de sus prototipos.
 
-## Planificación de la iteración
-
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
-
 ## Sprint Planning
 
-### Artefactos principales
+Para este sprint se realizó una estimación de los story points de las user story para estimar la duración de su prototipado, a continuación la imágenes:
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+![eventos](imagenes/Estimationpoker_Sprint2.png)
+
+![eventos](imagenes/Estimationpoker_storypoints_Sprint2.png)
+
+En total se lograron concretar 10 user story, ya que la velocidad del equipo de desarrollo fue eficiente se implementaron además 2 user story asignadas para la siguiente iteración.
+
+![eventos](imagenes/Backlog_Sprint2.png)
+
+![eventos](imagenes/UserStory_Sprint3.png)
 
 ## Seguimiento de la iteración
 
