@@ -29,7 +29,15 @@ En esta iteración seguimos trabajando con el marco **Scrum**, con los roles ya 
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+Para este sprint se realizó una estimación de los story points de las user story utilizando la metodología ágil conocida como *Estimation Poker* para estimar la duración de su prototipado, a continuación la imágenes:
+
+![eventos](imagenes/Estimationpoker_Sprint3.png)
+
+![eventos](imagenes/Estimationpoker_storypoints_Sprint3.png)
+
+A diferencia de las demás entregas en esta iteracion es donde el equipo se planteo como objetivo principal concretar un MVP del carpooling universitario solicitado por el cliente previamente testeado por distintos tipos de usuarios.
+
+**Agregar el Product Backlog**
 
 ### Artefactos principales
 
