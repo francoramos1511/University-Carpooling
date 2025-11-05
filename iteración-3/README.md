@@ -64,23 +64,22 @@ En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
+- **To do**: Aspectos que nos gustaria implementar en proximas iteraciones.  
+- **Bad**: Aspectos a mejorar.  
+- **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
-### Artefactos principales
-
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+**Agregar imagen de la sprint retrospective**
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+### Figma
 
-### Artefactos principales
+En la carpeta a continuación se pueden apreciar imágenes de los prototipos realizados en esta iteración:
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+[Ver Prototipos](./figma) 
 
 ## Inspección y adaptación del producto
 
