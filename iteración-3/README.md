@@ -50,16 +50,17 @@ A diferencia de las demás entregas en esta iteracion es donde el equipo se plan
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Daily Scrum
 
-### Artefactos principales
+En la siguiente carpeta se pueden apreciar imágenes de los daily.
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+[Ver Daily Scrum](./dailyscrum) 
+
+### Toggl
+
+En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el trabajo en equipo, mostrando el progreso del proyecto en horas de trabajo.
+
+[Ver Toggl](./toggl)
 
 ## Inspección y adaptación del proceso
 
