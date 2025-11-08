@@ -35,18 +35,26 @@ Para este sprint se realizó una estimación de los story points de las user sto
 
 ![eventos](imagenes/Estimationpoker_storypoints_Sprint3.png)
 
+Previo a esta iteración se llevó a cabo una reunión con los sponsor del proyecto y en base a esta surgieron nuevos requerimientos y se ajustaron algunos de los existentes, por lo tanto, se crearon nuevas User Story para dichos requerimientos. Posterior a su creación se hicieron las estimaciones respectivas. A continuación las imágenes:
+
+![eventos](imagenes/EstimationPokerUsNuevas_Sprint3.png)
+
+![eventos](imagenes/StoryPointsNuevasUs.png)
+
+
 A diferencia de las demás entregas en esta iteracion es donde el equipo se planteo como objetivo principal concretar un MVP del carpooling universitario solicitado por el cliente previamente testeado por distintos tipos de usuarios.
 
-**Agregar el Product Backlog**
+En total se lograron concretar 6 user story, la velocidad del equipo de desarrollo fue eficiente y no tuvo cambios con respecto a la iteración anterior.
 
-### Artefactos principales
+![eventos](imagenes/Backlog_Sprint3.png)
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+Velocidad de la segunda iteración:
+
+![eventos](imagenes/Velocidad_Sprint2.png)
+
+Velocidad de la tercera iteración: 
+
+![eventos](imagenes/Velocidad_Sprint3.png)
 
 ## Seguimiento de la iteración
 
