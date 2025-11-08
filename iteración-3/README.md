@@ -72,7 +72,9 @@ En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el
 
 ### Story Map
 
-[Ver Toggl](./storymap)
+En la carpeta a continuacion se encuentran las epicas con sus respectivas historias de usuario y el story map con las mismas.
+
+[Ver StoryMap](./storymap)
 
 
 ## Inspección y adaptación del proceso
