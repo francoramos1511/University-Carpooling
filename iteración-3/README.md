@@ -100,9 +100,9 @@ Se realizo una validación del MVP del proyecto de carpooling universitario.   P
 
 *Felipe Ghione* - estudiante de la carrera ingeniería en sistemas en la ORT (actualmente realizando la tesis de dicha carrera)
 
-**Insertar imágen de la reunión**
+![eventos](imagenes/Feedback_FelipeGhione.png)
 
-Me parecio que representaron muy bien como se vería una aplicacion de carpooling, bien lograda la estetica. La aplicación se siente familiar, se ve inspiración en aplicaciones similares como Uber, Viatik, Cabify. Podrían agregar detalles que la hagan sentir más personalizada, como un saludo al usuario o colores asociados a la universidad.
+Me parecio que representaron muy bien como se vería una aplicacion de carpooling, bien lograda la estetica. La aplicación se siente familiar, se ve inspiración en aplicaciones similares como Uber, Viatik, Cabify. Podrían agregar detalles que la hagan sentir más personalizada, como un saludo al usuario o una paleta de colores asociados a la universidad. En términos generales muy buen flujo, sorprende ya que son solamente prototipos de una app.
 
 *Santiago Gonzalez* - estudiante de la carrera ingeniería en sistemas y profesor en la ORT de las materias: Sitemas Operativos e Ingeniería de Software Ágil 2
 
