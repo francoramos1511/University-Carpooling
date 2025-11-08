@@ -13,70 +13,102 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+En esta iteración seguimos trabajando con el marco **Scrum**, con los roles ya definidos y realizando los diferentes prototipos designados para esta iteración.
+  
+## Roles y responsabilidades
 
-### Artefactos principales
+**Product Owner:** Franco Ramos  
+**Scrum Master:** Agustin Peraza  
+**Developer:** Santiago Meizoso 
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+## Políticas de trabajo
+
+**Definition of Done:** Una historia de usuario la consideramos finalizada cuando su prototipo fue completado, validado en las pruebas de usabilidad y aprobado por los usuarios (ver validación con usuarios).
+
+**Definition of Ready:** Las historias de usuario las consideramos listas si cumplen con el modelo INVEST, si estan correctamente priorizadas y si cuentan con criterios de aceptación claros antes de iniciar los diseños de sus prototipos.
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+Para este sprint se realizó una estimación de los story points de las user story utilizando la metodología ágil conocida como *Estimation Poker* para estimar la duración de su prototipado, a continuación la imágenes:
 
-### Artefactos principales
+![eventos](imagenes/Estimationpoker_Sprint3.png)
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+![eventos](imagenes/Estimationpoker_storypoints_Sprint3.png)
+
+Previo a esta iteración se llevó a cabo una reunión con los sponsor del proyecto y en base a esta surgieron nuevos requerimientos y se ajustaron algunos de los existentes, por lo tanto, se crearon nuevas User Story para dichos requerimientos. Posterior a su creación se hicieron las estimaciones respectivas. A continuación las imágenes:
+
+![eventos](imagenes/EstimationPokerUsNuevas_Sprint3.png)
+
+![eventos](imagenes/StoryPointsNuevasUs.png)
+
+
+A diferencia de las demás entregas en esta iteracion es donde el equipo se planteo como objetivo principal concretar un MVP del carpooling universitario solicitado por el cliente previamente testeado por distintos tipos de usuarios.
+
+En total se lograron concretar 6 user story, la velocidad del equipo de desarrollo fue eficiente y no tuvo cambios con respecto a la iteración anterior.
+
+![eventos](imagenes/Backlog_Sprint3.png)
+
+Velocidad de la segunda iteración:
+
+![eventos](imagenes/Velocidad_Sprint2.png)
+
+Velocidad de la tercera iteración: 
+
+![eventos](imagenes/Velocidad_Sprint3.png)
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Daily Scrum
 
-### Artefactos principales
+En la siguiente carpeta se pueden apreciar imágenes de los daily.
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+[Ver Daily Scrum](./dailyscrum) 
+
+### Toggl
+
+En la carpeta a continuacion se encuentran distintas métricas de Toggl sobre el trabajo en equipo, mostrando el progreso del proyecto en horas de trabajo.
+
+[Ver Toggl](./toggl)
+
+### Story Map
+
+En la carpeta a continuacion se encuentran las epicas con sus respectivas historias de usuario y el story map con las mismas.
+
+[Ver StoryMap](./storymap)
+
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+Realizamos una ceremonia de sprint retrospective con tres clasificaciones:  
+- **To do**: Aspectos que nos gustaria implementar en proximas iteraciones.  
+- **Bad**: Aspectos a mejorar.  
+- **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
-### Artefactos principales
-
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+![eventos](imagenes/Retrospective_Sprint3.png)
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+### Figma
 
-### Artefactos principales
+En la carpeta a continuación se pueden apreciar imágenes de los prototipos realizados en esta iteración:
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+[Ver Prototipos](./figma) 
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+Se realizó una validación del MVP del proyecto de carpooling universitario.   Para lograr esto se les presentó el MVP a un profesor y a un alumno de la universidad ORT para visualizar los prototipos creados hasta el momento. El feedback obtenido en términos generales fue satisfactorio. A continuación las imágenes y los comentarios de los usuarios:
 
-### Artefactos principales
+*Felipe Ghione* - estudiante de la carrera ingeniería en sistemas en la ORT (actualmente realizando la tesis de dicha carrera)
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+![eventos](imagenes/Feedback_FelipeGhione.png)
+
+Me parecio que representaron muy bien como se vería una aplicacion de carpooling, bien lograda la estetica. La aplicación se siente familiar, se ve inspiración en aplicaciones similares como Uber, Viatik, Cabify. Podrían agregar detalles que la hagan sentir más personalizada, como un saludo al usuario o una paleta de colores asociados a la universidad. En términos generales muy buen flujo, sorprende ya que son solamente prototipos de una app.
+
+*Federico Gutiérrez* - estudiante de la carrera ingeniería en sistemas en la ORT
+
+![eventos](imagenes/Feedback_FedericoGutiérrez.png)
+
+Se nota que trabajaron con una idea clara de a quién va dirigida y qué problema quieren resolver. El flujo entre pantallas es intuitivo y la estética encaja bien con un público universitario.
+Trabajaron bien la estructura general: se entiende rápido cómo buscar, editar o publicar un viaje, entre otras funciones. Capaz podrían pulir un poco más algunos detalles visuales , pero en general un buen trabajo de muy buena calidad.
