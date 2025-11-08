@@ -77,7 +77,7 @@ Realizamos una ceremonia de sprint retrospective con tres clasificaciones:
 - **Bad**: Aspectos a mejorar.  
 - **Good**: Cosas que hicimos bien y deberiamos seguir realizando.  
 
-**Agregar imagen de la sprint retrospective**
+![eventos](imagenes/Retrospective_Sprint3.png)
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
