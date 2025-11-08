@@ -96,7 +96,7 @@ En la carpeta a continuación se pueden apreciar imágenes de los prototipos rea
 
 ## Inspección y adaptación del producto
 
-Se realizo una validación del MVP del proyecto de carpooling universitario.   Para lograr esto se le presentó a un profesor y a un alumno de la universidad ORT para visualizar los prototipos creados hasta el momento. El feedback obtenido en términos generales fue satisfactorio. A continuación las imágenes y los comentarios de los usuarios:
+Se realizó una validación del MVP del proyecto de carpooling universitario.   Para lograr esto se les presentó el MVP a un profesor y a un alumno de la universidad ORT para visualizar los prototipos creados hasta el momento. El feedback obtenido en términos generales fue satisfactorio. A continuación las imágenes y los comentarios de los usuarios:
 
 *Felipe Ghione* - estudiante de la carrera ingeniería en sistemas en la ORT (actualmente realizando la tesis de dicha carrera)
 
@@ -104,9 +104,9 @@ Se realizo una validación del MVP del proyecto de carpooling universitario.   P
 
 Me parecio que representaron muy bien como se vería una aplicacion de carpooling, bien lograda la estetica. La aplicación se siente familiar, se ve inspiración en aplicaciones similares como Uber, Viatik, Cabify. Podrían agregar detalles que la hagan sentir más personalizada, como un saludo al usuario o una paleta de colores asociados a la universidad. En términos generales muy buen flujo, sorprende ya que son solamente prototipos de una app.
 
-*Santiago Gonzalez* - estudiante de la carrera ingeniería en sistemas y profesor en la ORT de las materias: Sitemas Operativos e Ingeniería de Software Ágil 2
+*Federico Gutiérrez* - estudiante de la carrera ingeniería en sistemas en la ORT
 
-**Insertar imágen de la reunión**
+![eventos](imagenes/Feedback_FedericoGutiérrez.png)
 
 Se nota que trabajaron con una idea clara de a quién va dirigida y qué problema quieren resolver. El flujo entre pantallas es intuitivo y la estética encaja bien con un público universitario.
-Trabajaron bien la estructura general: se entiende rápido cómo buscar, editar o publicar un viaje, entre otras funciones. Capaz podrían pulir un poco más algunos detalles visuales , por ejemplo  mantener la misma estetica visual en todas las pantallas o usar íconos y botones consistentemente.
+Trabajaron bien la estructura general: se entiende rápido cómo buscar, editar o publicar un viaje, entre otras funciones. Capaz podrían pulir un poco más algunos detalles visuales , pero en general un buen trabajo de muy buena calidad.
