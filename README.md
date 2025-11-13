@@ -1,61 +1,117 @@
-# Mini proyecto ISA1
+# Informe Académico - Mini proyecto ISA1
 
-El objetivo del proyecto es aprender prácticas de gestión ágil mediante su aplicación en el prototipado de un producto.
+Este informe presenta los resultados finales del desarrollo de la aplicación de carpooling universitario solicitada por el cliente. A través de este proyecto, se adoptaron prácticas de ingeniería de software ágil que optimizaron la entrega de valor y permitieron adaptarse a las necesidades cambiantes del cliente.
 
-# Indice
+# Índice
 
-- [Prácticas de ingeniería de software ágil](#prácticas-de-ingeniería-de-software-ágil)
 - [Integrantes del equipo](#integrantes-del-equipo)
+  - [Roles y responsabilidades](#roles-y-responsabilidades)
+- [Objetivo del proyecto](#objetivo-del-proyecto)
+- [Metodología de desarrollo](#metodología-de-desarrollo)
+  - [Marco de Trabajo](#marco-de-trabajo)
+  - [Artefactos de Gestión](#artefactos-de-gestión)
+  - [Técnicas utilizadas](#técnicas-utilizadas)
 - [Iteraciones y esfuerzo](#iteraciones-y-esfuerzo)
-- [Mejoras y ajustes principales a los entregables de cada iteración](#mejoras-y-ajustes-principales-a-los-entregables-de-cada-iteración)
-- [Reflexiones y aprendizajes finales de los resultados del proyecto](#reflexiones-y-aprendizajes-finales-de-los-resultados-del-proyecto)
-  - [Informe académico](#informe-académico)
-  - [Video demo](#video-demo)
+- [Resultados de cada iteración](#resultados-de-cada-iteración)
+  - [Iteración 1](#iteración-1)
+  - [Iteración 2](#iteración-2)
+  - [Iteración 3](#iteración-3)
+  - [Iteración 4](#iteración-4)
+- [Tiempo dedicado en el proyecto ](#tiempo-dedicado-en-el-proyecto)
+- [Resultados y reflexiones del proyecto](#resultados-y-reflexiones-del-proyecto)
+  - [Prototipos](#prototipos)
+  - [Video Demo](#video-demo)
+  - [Principales Aprendizajes](#principales-aprendizajes)
+  - [Reflexión Grupal](#reflexión-grupal)
 
-# Prácticas de ingeniería de software ágil
+## Integrantes del equipo
 
-Para el desarrollo del proyecto se deberá utilizar el marco de trabajo SCRUM. El equipo deberá adaptar y aplicar los roles, eventos y artefactos principales del marco de acuerdo al contexto y características del proyecto.
+- Agustín Peraza - 313678
+- Santiago Meizoso - 273286
+- Franco Ramos - 230508
 
-- **Roles**: Product Owner, Scrum Master, Development team.
-- **Eventos**: Daily Scrum, Sprint Planning, Sprint Review, Sprint Retrospective.
-- **Artefactos**: Product Backlog, Sprint Backlog, Increment.
+## Roles y responsabilidades
 
-# Integrantes del equipo
+**Product Owner:** Franco Ramos  
+**Scrum Master:** Agustin Peraza  
+**Developer:** Santiago Meizoso 
 
-_[Enumerar los integrantes del equipo con sus números de estudiantes y rol dentro del proyecto.]_
+## Objetivo del proyecto
 
-# Iteraciones y esfuerzo
+El objetivo de este proyecto fue aprender prácticas de gestión ágil mediante su aplicación en el prototipado de un MVP (Minimum Viable Product). 
 
-La ejecución del proyecto tiene 4 iteraciones de dos semanas de duración con la confección final de un informe académico que resuma los resultados y aprendizajes del proyecto. En cada iteración se aplican los mismos eventos de gestión ágil que el equipo deberá inspeccionar y adaptar.
+## Metodología de desarrollo
 
-El esfuerzo esperado del equipo durante el proyecto es: 5 horas-persona / semana.
+Para el desarrollo del proyecto utilizamos el marco de trabajo **SCRUM** para organizar al equipo, priorizar tareas y maximizar el valor entregado en cada iteración. 
 
-Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo la rúbrica propuesta en la letra del obligatorio y cada README:
+### Marco de trabajo
+
+El marco de trabajo utilizado fue **SCRUM**, utilizando sus eventos para organizarnos y mejorar en cada iteración. Estos son:
+
+- **Sprint Planning**: Donde planificamos cada iteración y definimos que valor se iba a aportar al cliente.
+- **Daily Scrum**: Reuniones cortas todos los días (en lo posible) para ver como íbamos, que había avanzado cada uno y que problemas había que resolver.
+- **Sprint Review**: Mostramos lo desarrollado (al final de los sprint 2 y 3) a los posibles usuarios y recibimos feedback para seguir ajustando el producto.
+- **Sprint Retrospective**: Momento que usamos para analizar que funcionó bien, quq no y como podíamos mejorar de cara al proximo sprint.
+
+### Artefactos de Gestión
+
+- **Backlog del Producto**: Se organizó y priorizó siempre en función del valor que aportaba a los usuarios, enfocándonos en las funcionalidades más importantes primero.
+- **Definition of Ready y Done**: Nos permitieron tener claridad sobre cuando una tarea estaba lista para comenzar y que criterios debia cumplir para considerarse realmente finalizada, asegurando orden, transparencia y calidad en el trabajo.
+
+### Técnicas Utilizadas
+
+- **Estimation Poker**: Se hicieron estimaciones colaborativas, alineando al equipo y logrando acuerdos rapidos sobre el esfuerzo requerido en cada tarea.
+- **Validación con Usuarios**: Integrando el feedback directo en las mejoras iterativas para alcanzar las expectativas de los usuarios.
+
+## Iteraciones y esfuerzo
+
+La ejecución del proyecto tuvo 4 iteraciones de dos semanas de duración cada una y con sus respectivas entregas.
 
 - [Iteración 1](./iteración-1/README.md)
 - [Iteración 2](./iteración-2/README.md)
 - [Iteración 3](./iteración-3/README.md)
 - [Iteración 4](./iteración-4/README.md)
 
-# Mejoras y ajustes principales a los entregables de cada iteración
+## Resultados de cada iteración
 
-_[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
+### Iteración 1
 
-# Reflexiones y aprendizajes finales de los resultados del proyecto
+### Iteración 2
 
-## Informe académico
+### Iteración 3
 
-_[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
+### Iteración 4
 
-### Artefactos principales
+## Tiempo dedicado en el proyecto 
 
-- Informe académico resumiendo resultados principales del proyecto.
-- Reflexiones y aprendizajes del proyecto.
+Para saber cuanto tiempo le dedicamos a cada parte del proyecto utilizamos **Toggl Track**. Es una herramienta muy fácil de usar que nos permitió registrar las horas invertidas en cada tarea, hacer un buen seguimiento del trabajo y finalmente visualizar gráficos con nuestros resultados.
 
-## Video demo
+**Imágenes de toggl finales**
+
+## Resultados y reflexiones del proyecto
+
+### Prototipos
+
+El uso de **Figma** nos permitió crear prototipos interactivos que facilitaron la validación rápida de ideas y el ajuste continuo en base al feedback de los stakeholders.
+
+[Enlace a los prototipos en Figma](https://www.figma.com/design/OGWqjIFF6Q7cqERJLukGV0/Prototipos?node-id=0-1&m=dev&t=z13POlvW3Ch6GRjO-1)
+
+### Video Demo
 
 _[Debe existir un video (de 6 minutos máximo) demostrando el flujo principal de los prototipos, explicando el problema que se quiere resolver y el valor entregado por el producto ideado. El video deberá ser publicado y enlazado en el informe académico para su correcta visualización.]_
 
-### Artefactos principales
+A continuación, un video demostrativo que presenta el flujo principal del prototipo, explicando el problema que se busca resolver y el valor entregado por el MVP al cliente.
 
-- Video de 6 minutos demostrando el flujo de la aplicación y explicando la propuesta de valor.
+[![Video de Demostración](video-thumbnail.png)](**Agregar link al video**)
+
+### Principales Aprendizajes
+
+- **Importancia del Feedback**: Involucrar a los usuarios permitió asegurar que el producto respondiera realmente a sus necesidades y expectativas.
+- **Iteración Continua en Scrum**: Gracias al enfoque iterativo de Scrum, pudimos ajustar el rumbo en cada sprint, aprendiendo de los resultados y mejorando el producto de forma constante.
+- **Prototipado**: El uso de herramientas como Figma facilitó la creación y mejora continua de prototipos de manera rápida y visual.
+- **Gestión del Backlog**: Se priorizaron historias de alto valor, lo que permitió enfocar el esfuerzo del equipo en entregas que generaran impacto para el cliente.
+- **Roles**: La definición clara de las responsabilidades favoreció la comunicación fluida y una mayor eficiencia del trabajo del equipo.
+- **Toggl**: Herramienta práctica y fácil de usar para registrar y visualizar las horas trabajadas por cada integrante del equipo, ayudando a mejorar la organización y el seguimiento del tiempo.
+
+### Reflexión Grupal
+
