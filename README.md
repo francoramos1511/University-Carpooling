@@ -76,11 +76,39 @@ La ejecución del proyecto tuvo 4 iteraciones de dos semanas de duración cada u
 
 ### Iteración 1
 
+Antes de comenzar a trabajar, definimos el rol de cada integrante del equipo para asegurar una buena organización y coordinación del proyecto.
+
+En la primera iteración nos enfocamos en varios objetivos clave:
+
+- Crear y priorizar de las historias de usuario del product backlog, estimando tanto su complejidad como su valor para el proyecto. [Backlog](./iteración-1/productBacklog/userstory.png)
+
+- Analizar los competidores, lo que nos permitió identificar buenas prácticas del mercado y detectar oportunidades de diferenciación para nuestra solución. [Estudio de Competidores](./iteración-1/competidores.md)
+
+- Identificar posibles interesados (stakeholders) vinculados al proyecto. [Interesados](./iteración-1/interesados.md)
+
+- Definir inicialmente posibles requerimientos funcionales y no funcionales, estableciendo las bases para el alcance y la funcionalidad del sistema. [Funcionalidades](./iteración-1/funcionalidades.md)
+
 ### Iteración 2
+
+En la segunda iteración, nos enfocamos principalmente en implementar los primeros prototipos de la app e intentar validarlos inicialmente con algunos usuarios. Las actividades que realizamos incluyeron:
+
+**Desarrollo de prototipos**: Creamos las pantallas básicas que representan las funcionalidades principales del sistema. [Prototipos](./iteración-2/figma)
+
+**Pruebas de usabilidad**: Hicimos pruebas con usuarios para obtener feedback temprano y evaluar la experiencia de uso. [Validación con usuarios](./iteración-2/README.md#validacion-con-usuarios)
+
+**Ajustes basados en el feedback**: Realizamos las modificaciones sobre los prototipos en función de las observaciones y comentarios recibidos.
 
 ### Iteración 3
 
+En la tercera iteración, avanzamos con la implementación y el refinamiento de los prototipos, incorporando las funcionalidades adicionales sugeridas durante la reunión con los sponsors, optimizando la experiencia del usuario. Las actividades principales incluyeron:
+
+**Finalización del MVP**: Integramos las nuevas funcionalidades definidas en conjunto con los sponsors y concretamos las características esenciales para que el producto cumpliera con los requisitos mínimos establecidos. [Prototipos](./iteración-3/figma)
+
+**Validación final con usuarios**: Realizamos pruebas de usabilidad adicionales para evaluar las mejoras implementadas, detectando posibles ajustes y asegurando que la experiencia final resultara fluida e intuitiva. [Validación con usuarios](./iteración-3/README.md#inspección-y-adaptación-del-producto)
+
 ### Iteración 4
+
+En la última iteración, como finalizamos el MVP del sistema de carpooling universitario, nos enfocamos en redactar el informe final para la entrega del proyecto.
 
 ## Tiempo dedicado en el proyecto 
 
