@@ -46,7 +46,7 @@ Para el desarrollo del proyecto utilizamos el marco de trabajo **SCRUM** para or
 
 ### Marco de trabajo
 
-El marco de trabajo utilizado fue **SCRUM**, utilizando sus eventos para organizarnos y mejorar en cada iteración. Estos son:
+El marco de trabajo utilizado fue **SCRUM**, utilizando sus ceremonias para organizarnos y mejorar en cada iteración. Estos son:
 
 - **Sprint Planning**: Donde planificamos cada iteración y definimos que valor se iba a aportar al cliente.
 - **Daily Scrum**: Reuniones cortas todos los días (en lo posible) para ver como íbamos, que había avanzado cada uno y que problemas había que resolver.
@@ -143,3 +143,14 @@ A continuación, un video demostrativo que presenta el flujo principal del proto
 
 ### Reflexión Grupal
 
+Se logro el objetivo de realizar un MVP trabajando con sobre el marco ágil de trabajo SCRUM. Respetamos en su mayoría las ceremonias y los tiempos de entrega. Hubo buena comunicación y disposición por parte de todos los integrantes del equipo. 
+
+### Reflexión Individual
+
+#### Franco Ramos
+
+Me quedo muy conforme con resultado final del proyecto. Nos logramos organizar de buena manera y no tuvimos mayores problemas. Se trabajo tanto individual como grupalmente y se lograron hacer todas las cosas propuestas en tiempo y forma.
+
+#### Agustín Peraza
+
+#### Santiago Meizoso
