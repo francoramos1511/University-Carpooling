@@ -182,7 +182,7 @@ Para saber cuanto tiempo le dedicamos a cada parte del proyecto utilizamos **Tog
 **Total de horas trabajadas:** 
 
 **Distribución por persona:**
-- Agustín: [X] horas
+- Agustín: 32.5 horas
 - Santiago: [Y] horas
 - Franco: [Z] horas
 
