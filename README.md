@@ -179,12 +179,14 @@ En la última iteración, como finalizamos el MVP del sistema de carpooling univ
 
 Para saber cuanto tiempo le dedicamos a cada parte del proyecto utilizamos **Toggl Track**. Es una herramienta muy fácil de usar que nos permitió registrar las horas invertidas en cada tarea, hacer un buen seguimiento del trabajo y finalmente visualizar gráficos con nuestros resultados.
 
-**Total de horas trabajadas:** 73.5 horas
+**Total de horas trabajadas:** 73.2 horas
+
+![Horas totales](imagenes/toggle/toggleTotal.png)
 
 **Distribución por persona:**
 - Agustín: 33.5 horas
-- Santiago: 19.8 horas
-- Franco: 20.2 horas
+- Santiago: 13.2 horas
+- Franco: 26.5 horas
 
 **Imágenes de toggl finales**
 - [Agustín](imagenes/toggle/toggleAgustin.png)
