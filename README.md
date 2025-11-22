@@ -162,3 +162,8 @@ Hay lugar a mejora en cuanto a la aplicación de Scrum, ya que deberíamos haber
 En términos generales, estoy conforme con el resultado y considero que las herramientas utilizadas son útiles para nuestro desarrollo profesional.
 
 #### Santiago Meizoso
+
+Aprendi las herramientas del curso y pude ponerlas en practica, valoro el trabajo del grupo que siempre estuvo dispuesto a reunirse y trabajar durante el transcurso del obligatorio.  
+Si bien la aplicacion de Scrum pudo ser mejor, creo que cumplimos satisfactoriamente con lo pedido en el obligatorio y personalmente me sirvió para entender como se trabaja con esa metodología.  
+No conocia Figma, con los prototipos fui entendiendolo cada vez más y seguramente lo use a futuro para realizar demos rapidamente. 
+Por todo lo anteriormente mencionado concluyo que este trabajo me sirvió para aprender herramientas sumamente utiles para mi carrera.  
