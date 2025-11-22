@@ -153,4 +153,12 @@ Me quedo muy conforme con resultado final del proyecto. Nos logramos organizar d
 
 #### Agustín Peraza
 
+Me gustó cómo pudimos organizarnos y trabajar en equipo para llegar a un resultado con el que estemos todos conformes. 
+
+Como Scrum Master, lo más valioso fue comprender la importancia del rol de facilitador. En mi experiencia laboral he trabajado con Scrum Masters, pero nunca había estado en esa posición. Traté de facilitar la generación de las user stories para que fueran claras y todos pudiéramos trabajar en conjunto.
+
+Hay lugar a mejora en cuanto a la aplicación de Scrum, ya que deberíamos haber hecho más dailies formales, especialmente en las iteraciones 2 y 3 donde generalmente nos arreglábamos por mensaje. Por otro lado, las retrospectivas generaron cambios concretos y valiosos.
+
+En términos generales, estoy conforme con el resultado y considero que las herramientas utilizadas son útiles para nuestro desarrollo profesional.
+
 #### Santiago Meizoso
