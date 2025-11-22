@@ -179,12 +179,12 @@ En la última iteración, como finalizamos el MVP del sistema de carpooling univ
 
 Para saber cuanto tiempo le dedicamos a cada parte del proyecto utilizamos **Toggl Track**. Es una herramienta muy fácil de usar que nos permitió registrar las horas invertidas en cada tarea, hacer un buen seguimiento del trabajo y finalmente visualizar gráficos con nuestros resultados.
 
-**Total de horas trabajadas:** 
+**Total de horas trabajadas:** 73.5 horas
 
 **Distribución por persona:**
 - Agustín: 33.5 horas
-- Santiago: [Y] horas
-- Franco: [Z] horas
+- Santiago: 19.8 horas
+- Franco: 20.2 horas
 
 **Imágenes de toggl finales**
 - [Agustín](imagenes/toggle/toggleAgustin.png)
@@ -207,11 +207,9 @@ El uso de **Figma** nos permitió crear prototipos interactivos que facilitaron 
 
 ### Video Demo
 
-_[Debe existir un video (de 6 minutos máximo) demostrando el flujo principal de los prototipos, explicando el problema que se quiere resolver y el valor entregado por el producto ideado. El video deberá ser publicado y enlazado en el informe académico para su correcta visualización.]_
-
 A continuación, un video demostrativo que presenta el flujo principal del prototipo, explicando el problema que se busca resolver y el valor entregado por el MVP al cliente.
 
-[![Video de Demostración](video-thumbnail.png)](**Agregar link al video**)
+[![Video de Demostración](https://img.youtube.com/vi/vuPZbVtA-i4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vuPZbVtA-i4)
 
 ### Principales Aprendizajes
 
