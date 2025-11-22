@@ -23,6 +23,7 @@ Este informe presenta los resultados finales del desarrollo de la aplicación de
   - [Video Demo](#video-demo)
   - [Principales Aprendizajes](#principales-aprendizajes)
   - [Reflexión Grupal](#reflexión-grupal)
+  - [Reflexión Individual](#reflexión-individual)
 
 ## Integrantes del equipo
 
@@ -30,7 +31,7 @@ Este informe presenta los resultados finales del desarrollo de la aplicación de
 - Santiago Meizoso - 273286
 - Franco Ramos - 230508
 
-## Roles y responsabilidades
+### Roles y responsabilidades
 
 **Product Owner:** Franco Ramos  
 **Scrum Master:** Agustín Peraza  
@@ -228,7 +229,11 @@ Se logró el objetivo de realizar un MVP trabajando con sobre el marco ágil de 
 
 #### Franco Ramos
 
-Me quedo muy conforme con resultado final del proyecto. Nos logramos organizar de buena manera y no tuvimos mayores problemas. Se trabajo tanto individual como grupalmente y se lograron hacer todas las cosas propuestas en tiempo y forma.
+Me quedo muy conforme con resultado final del proyecto. Nos logramos organizar de buena manera y no tuvimos mayores problemas. Se trabajo tanto individual como grupalmente y se lograron hacer todas las cosas propuestas en tiempo y forma. 
+
+Como persona soy muy organizada en trabajos grupales, me gusta liderar y mantener el orden de las cosas, por lo tanto, creo haber sido un buen Product Owner.
+
+Logre entender la metodología SCRUM y aprendi muchas herramientas para aplicar a nivel laboral a futuro.
 
 #### Agustín Peraza
 Me gustó cómo pudimos organizarnos y trabajar en equipo para llegar a un resultado con el que estemos todos conformes. 
