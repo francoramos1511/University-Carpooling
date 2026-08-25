@@ -1,6 +1,6 @@
 # 🚗🎓 University Carpooling
 
-University Carpooling is an MVP of a mobile university carpooling application designed to connect students who offer rides with students who need transportation.
+MVP of a mobile university carpooling application designed to connect students who offer rides with students who need transportation.
 
 The project was developed as a Mini Project for the **Software Engineering 1 (ISA1)** course at **Universidad ORT Uruguay**, focusing on agile product development, requirements analysis, prototyping, and user validation rather than implementing a fully functional application.
 
