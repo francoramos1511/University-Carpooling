@@ -117,4 +117,4 @@ All team members contributed to prototype design, validation, documentation, and
 
 ## 🎓 Academic Context
 
-Developed as a **Mini Project for the Software Engineering 1 (ISA1) course at Universidad ORT Uruguay**, applying agile project management and product development practices to address a real mobility and transportation problem within the university community.
+Developed as a **Mini Project for the Agile Software Engineering 1 (ISA1) course at Universidad ORT Uruguay**, applying agile project management and product development practices to address a real mobility and transportation problem within the university community.
